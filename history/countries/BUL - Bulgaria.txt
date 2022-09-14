@@ -3,7 +3,7 @@
 oob = "BUL_1936"
 
 set_convoys = 10
-set_war_support = 0.25
+set_war_support = 0.35
 set_stability = 0.55
 set_research_slots = 4
 
